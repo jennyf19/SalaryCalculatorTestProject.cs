@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryCalculatorTestProject.cs", "SalaryCalculatorTestProject.cs\SalaryCalculatorTestProject.cs.csproj", "{B59BCB6A-81AD-410E-83BC-3F3F7A0E9508}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "SalaryCalculator\Calculator.csproj", "{B524A161-9273-401C-A681-F4DE11783453}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibrary", "CalculatorLibrary\CalculatorLibrary.csproj", "{193942CC-054D-4901-B3F1-93D4C667B981}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{B59BCB6A-81AD-410E-83BC-3F3F7A0E9508}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B59BCB6A-81AD-410E-83BC-3F3F7A0E9508}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B59BCB6A-81AD-410E-83BC-3F3F7A0E9508}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B524A161-9273-401C-A681-F4DE11783453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B524A161-9273-401C-A681-F4DE11783453}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B524A161-9273-401C-A681-F4DE11783453}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B524A161-9273-401C-A681-F4DE11783453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{193942CC-054D-4901-B3F1-93D4C667B981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193942CC-054D-4901-B3F1-93D4C667B981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193942CC-054D-4901-B3F1-93D4C667B981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193942CC-054D-4901-B3F1-93D4C667B981}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
